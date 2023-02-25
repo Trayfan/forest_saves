@@ -4,4 +4,4 @@ git config --global user.email "test@test.ru"
 git config --global user.name "Alex"
 git add . 
 git commit -m "test"
-git push -u origin main
+git push -u origin master
